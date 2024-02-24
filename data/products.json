@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Mouse",
+    "category": "Materials",
+    "price": 30
+  },
+  {
+    "name": "Board",
+    "category": "Materials",
+    "price": 200
+  },
+  {
+    "name": "Keyboard",
+    "category": "Materials",
+    "price": 120
+  },
+  {
+    "name": "Computer",
+    "price": 2000
+  },
+  {
+    "name": "mous",
+    "price": 122
+  }
+]
